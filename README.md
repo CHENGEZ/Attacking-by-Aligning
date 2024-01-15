@@ -1,4 +1,6 @@
-# Key Implementation of Our Attack Algorithms
+# Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection
+Implementation for paper [Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection](https://arxiv.org/abs/2307.10487)
+
 **Data Poisoning for ODA**: source\coco_oda.py   
 **Data Poisoning for OGA**: source\coco_oga.py   
 **Evaluate ASR for ODA**: source\oda_asr_coco_yolov8.py
