@@ -3,7 +3,7 @@ Implementation for paper [Attacking by Aligning: Clean-Label Backdoor Attacks on
 
 **Data Poisoning for ODA**: source\coco_oda.py   
 **Data Poisoning for OGA**: source\coco_oga.py   
-**Evaluate ASR for ODA**: source\oda_asr_coco_yolov8.py
+**Evaluate ASR for ODA**: source\oda_asr_coco_yolov8.py    
 **Evaluate ASR for OGA**: source\oga_asr_coco_yolov8.py
 
 # Reproducibility
